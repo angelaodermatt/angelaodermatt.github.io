@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Angela Odermatt
+description: Personal Website
 
 url: https://long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -21,21 +21,17 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: About
-      url: /about
+    - title: Research
+      url: /research
     - title: Contact
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+    github: angelaodermatt
+    email: angela.odermatt@princeton.edu
+    linkedin: www.linkedin.com/in/angela-odermatt-0843021b6
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: angelaodermatt
